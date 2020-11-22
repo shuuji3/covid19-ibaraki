@@ -27,7 +27,7 @@
       :items="chartData.cityDataset"
       :items-per-page="-1"
       :hide-default-footer="true"
-      :height="240"
+      :height="500"
       :fixed-header="true"
       :mobile-breakpoint="0"
       :custom-sort="customSort"
